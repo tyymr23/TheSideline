@@ -11,7 +11,7 @@ const LoginPage = () => {
                 fontSize="32px"
                 color="primary"
             >
-                Connect+
+                The Sideline
             </Typography>
         </Box>
 
@@ -23,7 +23,7 @@ const LoginPage = () => {
             backgroundColor={theme.palette.background.alt}
         >
             <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem"}}>
-                Welcome to Connect+
+                Welcome to The Sideline, Your Stop for Any Sports Take.
             </Typography>
             <Form />
         </Box>
